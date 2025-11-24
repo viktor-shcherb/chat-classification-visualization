@@ -1,0 +1,5 @@
+datasets
+pyarrow
+streamlit
+orjson
+watchdog
